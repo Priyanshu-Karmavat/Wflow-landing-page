@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© 2026 NovaFlow. All rights reserved.</span>
+          <span>© 2026 WFlow. All rights reserved.</span>
 
           <div>
             <a href="#">Privacy</a>

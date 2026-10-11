@@ -3,12 +3,12 @@ import { AnimatePresence, motion } from "framer-motion";
 
 const faqs = [
   {
-    question: "What is NovaFlow?",
+    question: "What is WFlow?",
     answer:
-      "NovaFlow is an all-in-one workspace designed to help teams plan projects, collaborate, automate repetitive work and track performance from one place."
+      "WFlow is an all-in-one workspace designed to help teams plan projects, collaborate, automate repetitive work and track performance from one place."
   },
   {
-    question: "Can I try NovaFlow for free?",
+    question: "Can I try WFlow for free?",
     answer:
       "Yes. The Starter plan is free and gives you access to the core workspace features. You can upgrade whenever your team needs additional capabilities."
   },
@@ -18,14 +18,14 @@ const faqs = [
       "No. You can create a workspace and start exploring the platform without entering payment details."
   },
   {
-    question: "Can NovaFlow work with my existing tools?",
+    question: "Can WFlow work with my existing tools?",
     answer:
-      "NovaFlow is designed to fit into your existing workflow. The Scale plan also supports custom integrations for organizations with more advanced requirements."
+      "WFlow is designed to fit into your existing workflow. The Scale plan also supports custom integrations for organizations with more advanced requirements."
   },
   {
     question: "Is my team's data secure?",
     answer:
-      "NovaFlow is designed with modern security practices, access controls and enterprise-oriented features. Specific security requirements can be discussed with the team."
+      "WFlow is designed with modern security practices, access controls and enterprise-oriented features. Specific security requirements can be discussed with the team."
   },
   {
     question: "Can I cancel my plan at any time?",
@@ -62,7 +62,7 @@ export default function FAQ() {
 
           <p>
             Everything you need to know before bringing your team
-            onto NovaFlow.
+            onto WFlow.
           </p>
         </motion.div>
 

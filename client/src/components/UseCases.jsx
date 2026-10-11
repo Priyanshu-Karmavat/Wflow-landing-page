@@ -70,7 +70,7 @@ function UseCaseVisual({ data }) {
       <div className="usecase-window-top">
         <div className="usecase-window-title">
           <span className="usecase-window-icon">N</span>
-          NovaFlow
+          WFlow
         </div>
 
         <div className="usecase-window-dots">
@@ -245,7 +245,7 @@ export default function UseCases() {
           </h2>
 
           <p>
-            NovaFlow adapts to different teams, workflows and
+            WFlow adapts to different teams, workflows and
             ways of working without adding unnecessary complexity.
           </p>
         </motion.div>

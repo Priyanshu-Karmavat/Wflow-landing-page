@@ -213,7 +213,7 @@ export default function HowItWorks() {
           </h2>
 
           <p>
-            NovaFlow removes the friction between having a great idea
+            WFlow removes the friction between having a great idea
             and actually getting it done.
           </p>
         </motion.div>

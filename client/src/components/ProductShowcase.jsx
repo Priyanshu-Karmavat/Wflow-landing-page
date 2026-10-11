@@ -402,7 +402,7 @@ export default function ProductShowcase() {
                 N
               </span>
 
-              <span>NovaFlow workspace</span>
+              <span>WFlow workspace</span>
             </div>
 
             <div className="showcase-window-controls">

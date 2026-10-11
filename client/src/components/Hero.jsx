@@ -24,7 +24,7 @@ export default function Hero() {
           </h1>
 
           <p>
-            NovaFlow gives ambitious teams everything they need to plan,
+            WFlow gives ambitious teams everything they need to plan,
             collaborate and ship exceptional work — without the chaos.
           </p>
 

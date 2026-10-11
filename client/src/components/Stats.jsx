@@ -5,7 +5,7 @@ const stats = [
   {
     value: 12000,
     suffix: "+",
-    label: "Teams using NovaFlow",
+    label: "Teams using WFlow",
     decimals: 0
   },
   {

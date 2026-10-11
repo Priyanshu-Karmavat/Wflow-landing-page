@@ -5,7 +5,7 @@ const testimonials = [
     name: "Sarah Kim",
     role: "VP Product at Orbit",
     initials: "SK",
-    text: "NovaFlow replaced three different tools for us. The biggest difference isn't the features — it's how much calmer our team feels.",
+    text: "WFlow replaced three different tools for us. The biggest difference isn't the features — it's how much calmer our team feels.",
     rating: 5
   },
   {
@@ -43,7 +43,7 @@ export default function Testimonials() {
           </h2>
 
           <p>
-            Teams around the world use NovaFlow to bring ideas to life faster.
+            Teams around the world use WFlow to bring ideas to life faster.
           </p>
         </motion.div>
 
