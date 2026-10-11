@@ -1,6 +1,6 @@
-# NovaFlow — Animated SaaS Landing Page
+# WFlow — Animated SaaS Landing Page
 
-A modern, responsive SaaS landing page built with the MERN stack. NovaFlow features smooth animations, interactive product showcases, responsive navigation, pricing plans, testimonials, FAQs, and a MongoDB-backed contact form.
+A modern, responsive SaaS landing page built with the MERN stack. WFlow features smooth animations, interactive product showcases, responsive navigation, pricing plans, testimonials, FAQs, and a MongoDB-backed contact form.
 
 ## ✨ Features
 
@@ -39,7 +39,7 @@ A modern, responsive SaaS landing page built with the MERN stack. NovaFlow featu
 ## 📁 Project Structure
 
 ```text
-novaflow/
+WFlow/
 ├── client/
 │   ├── src/
 │   │   ├── components/
@@ -92,8 +92,8 @@ Install the following before starting:
 Replace `YOUR-USERNAME` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/novaflow.git
-cd novaflow
+git clone https://github.com/YOUR-USERNAME/WFlow.git
+cd WFlow
 ```
 
 ### 2. Install dependencies
@@ -114,7 +114,7 @@ Copy the contents of `server/.env.example` into it:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/novaflow
+MONGO_URI=mongodb://127.0.0.1:27017/WFlow
 CLIENT_URL=http://localhost:5173
 ```
 
@@ -155,7 +155,7 @@ Example response:
 ```json
 {
   "success": true,
-  "message": "NovaFlow API is running."
+  "message": "WFlow API is running."
 }
 ```
 
@@ -171,7 +171,7 @@ Request body:
 {
   "name": "Jane Doe",
   "email": "jane@example.com",
-  "message": "I would like to learn more about NovaFlow."
+  "message": "I would like to learn more about WFlow."
 }
 ```
 
@@ -197,7 +197,7 @@ The frontend and backend can also be started independently from their respective
 ## 🎨 Customization
 
 ### Change the branding
-Update the NovaFlow name, logo mark, page title, and brand colors to match your project.
+Update the WFlow name, logo mark, page title, and brand colors to match your project.
 
 ### Customize the styling
 Edit `client/src/index.css` to change:

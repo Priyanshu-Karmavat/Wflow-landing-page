@@ -127,7 +127,7 @@ export default function Navbar() {
             <span className="logo-mark">N</span>
 
             <span>
-              Nova<span>Flow</span>
+              W<span>Flow</span>
             </span>
           </button>
 
